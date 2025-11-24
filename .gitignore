@@ -7,3 +7,9 @@
 /backend/.mvn
 /backend/!**/src/main/**/target/
 /backend/!**/src/test/**/target/
+
+#Frontend
+node_modules
+dist
+dist-ssr
+*.local
