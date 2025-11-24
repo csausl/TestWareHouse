@@ -1,0 +1,9 @@
+.idea
+*.iml
+
+#Backend
+/backend/HELP.md
+/backend/target/
+/backend/.mvn
+/backend/!**/src/main/**/target/
+/backend/!**/src/test/**/target/
