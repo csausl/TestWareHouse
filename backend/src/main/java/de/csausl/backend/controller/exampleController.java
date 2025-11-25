@@ -26,6 +26,11 @@ public class exampleController {
         repo.saveAll(products);
     }
 
+    //@GetMapping
+    //public String hellohello(){
+    //    return "hello";
+    //}
+
     @GetMapping
     public String helloExample(){
         return """
