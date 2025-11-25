@@ -12,6 +12,7 @@ import java.util.List;
 @RequestMapping("/api/example")
 public class exampleController {
 
+    String test="sdfgkl;jsdf";
     private final TestWareHouseRepo repo;
 
     List<ProductRecord> products=List.of(
